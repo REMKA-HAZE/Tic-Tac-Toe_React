@@ -1,11 +1,15 @@
 
 
-#¡Felicitaciones! Has creado un juego de tic-tac-toe que:
+# ¡Felicitaciones! Has creado un juego de tic-tac-toe que:
 
-Te permite jugar tic-tac-toe,
-Indica cuando un jugador ha ganado el juego,
-Almacena el historial del juego como va progresando,
+Te permite jugar tic-tac-toe.
+
+Indica cuando un jugador ha ganado el juego. 
+
+Almacena el historial del juego como va progresando.
+
 Permite a los jugadores revisar el historial del juego y ver versiones anteriores del tablero de juego.
+
 ¡Buen trabajo! Esperamos que ahora te sientas que tienes un entendimiento decente sobre cómo funciona React.
 
 # Getting Started with Create React App
